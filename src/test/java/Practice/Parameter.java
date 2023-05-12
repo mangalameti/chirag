@@ -10,6 +10,6 @@ public class Parameter {
 		String URL=System.getenv("url");
 		System.out.println(BROWSER);
 		System.out.println(URL);
-	}
+	}//pull
 
 }
